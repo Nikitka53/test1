@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-esting line
-=======
+testing line update
 untesting file
->>>>>>> 927bc2d7d849e17fdf556f69f2eb859ab025fa8a
+a
 commit tes
 4567
 789.
